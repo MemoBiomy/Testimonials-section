@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solutioun at frontend mentor](https://your-solution-url.com)
-- Live Site URL: [live site](https://your-live-site-url.com)
+- Solution URL: [Solutioun at frontend mentor](https://www.frontendmentor.io/solutions/testimonials-section-html---css---bem-naming-convention---grid-_i_O_jwHvK)
+- Live Site URL: [live site](https://memobiomy.github.io/Testimonials-section/)
 
 ## My process
 
